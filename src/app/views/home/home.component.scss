@@ -1,0 +1,81 @@
+.hero-section {
+  background-image: url('/assets/img/hero-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  color: white;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 1.25rem;
+  margin-bottom: 30px;
+}
+
+.hero-content button {
+  font-size: 1rem;
+  padding: 12px 32px;
+}
+
+.features-section {
+  background-image: url('/assets/img/features-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 20px;
+  color: #000;
+}
+
+.feature-item {
+  text-align: center;
+  margin: 20px;
+}
+
+.feature-icon {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.why-us-section {
+  background-image: url('/assets/img/why-us-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.steps-section {
+  background-image: url('/assets/img/steps-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 20px;
+  color: #fff;
+}
+
+.pricing-section {
+  background-image: url('/assets/bg-pricing.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.pricing-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 30px;
+  color: #fff;
+}
